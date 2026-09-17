@@ -14,39 +14,42 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1789485413
+  lastShownTimestamp: 1789574911
   lastUpdateResponse:
-    version: 1.00
+    version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1789485413
+  checkedLastUpdateTimestamp: 1789574911
   lastQOTDResponse:
-    questionId: 163
-    questionText: What is the purpose of Unity Hub?
-    answerA: Provide a space for the community to interact
-    answerB: Manage different Unity versions and Projects
-    answerC: Dashboard for Unity services
-    answerD: 
+    questionId: 343
+    questionText: How many classes should your game have?
+    answerA: Less than 100
+    answerB: At least 100
+    answerC: As many as needed and no more
+    answerD: Just one
     answerE: 
-  lastQotdTimestamp: 1789485413
+  lastQotdTimestamp: 1789574911
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleBundleSyntyMar25.png
-    topText: Make ANY game with these awesome Assets! (96% OFF ENDS SOON!)
-    topLink: humblebundle
-    bottomText: Learn Unity DOTS for MASSIVE Performance Boosts! (and make an RTS)
-    bottomLink: dotscourse
-  lastDynamicHeaderTimestamp: 1789485413
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/codeMonkeyToolkit50Off.png
+    topText: My Toolkit is 50% OFF! 50+ Tools and Elements to help you make games
+      BETTER and FASTER!
+    topLink: toolkit
+    bottomText: Escape Tutorial Hell and level up your skills, try my Practice Lab
+      for FREE!
+    bottomLink: practicelab
+  lastDynamicHeaderTimestamp: 1789574911
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1789485413
+  websiteLatestMessageTimestamp: 1789574911
   websiteLatestVideos:
     videos:
-    - youTubeId: ZIg7VoD9ptI
-      title: The FUTURE of Unity in 2025 and BEYOND!
-    - youTubeId: W_XOZAWJF24
-      title: I made the MOST PROFITABLE Game as a Test!
-    - youTubeId: J0KMvH-yFmA
-      title: TOP 10 NEW Games, Made with Unity! (FEBRUARY 2025)
-    - youTubeId: DOSLOa7cnoE
-      title: I SHOULD have done this a long time ago, and YOU too!
-  websiteLatestVideosTimestamp: 1789485413
+    - youTubeId: ndlWuuOw_zo
+      title: Get 70% OFF AWESOME Assets this Autumn!
+    - youTubeId: Wp9I5WhT2OE
+      title: Every Game you make should make your NEXT Game Easier!
+    - youTubeId: QNXgOuo7-Iw
+      title: TOP 10 FREE NEW Assets SEPTEMBER 2026!
+    - youTubeId: xhOkkGbL3mY
+      title: How to Make your game look AWESOME! (Unity Lighting and Post Processing
+        Tutorial)
+  websiteLatestVideosTimestamp: 1789574911
